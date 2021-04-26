@@ -1,1 +1,2 @@
-# multi-car
+# synchronousBallMovement
+Ball moving synchronously
